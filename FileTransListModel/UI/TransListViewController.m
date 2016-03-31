@@ -77,8 +77,6 @@ typedef enum _TableViewSectionForUpload
     [self reloadDatas];
 }
 
-
-
 -(void)initDatas
 {
     
